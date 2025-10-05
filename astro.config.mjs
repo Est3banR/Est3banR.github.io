@@ -1,4 +1,6 @@
 import { defineConfig } from 'astro/config';
 
-// https://astro.build/config
-export default defineConfig({});
+// Site
+export default defineConfig({
+  site: 'https://est3banr.github.io',
+});
